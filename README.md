@@ -10,3 +10,7 @@
 ## التشغيل
 
 افتح ملف index.html في المتصفح، أو شغّل المشروع باستخدام إضافة Live Server في Visual Studio Code.
+
+## رابط المعاينة الحية
+
+[فتح المشروع مباشرة](https://modee98.github.io/css-grid-dashboard/)
